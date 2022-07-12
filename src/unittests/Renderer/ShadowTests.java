@@ -5,7 +5,7 @@ import org.junit.jupiter.api.Test;
 import static java.awt.Color.*;
 
 import Renderer.ImageWriter;
-import Lighting.*;
+import lighting.*;
 import geometries.*;
 import primitives.*;
 import Renderer.*;

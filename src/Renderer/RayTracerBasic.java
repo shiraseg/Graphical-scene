@@ -1,6 +1,6 @@
 package Renderer;
 
-import Lighting.LightSource;
+import lighting.LightSource;
 import primitives.*;
 import scene.Scene;
 import geometries.Intersectable.GeoPoint;

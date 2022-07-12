@@ -1,7 +1,7 @@
 package unittests.Renderer;
 import org.junit.jupiter.api.Test;
 
-import Lighting.*;
+import lighting.*;
 import geometries.*;
 import primitives.*;
 import Renderer.*;

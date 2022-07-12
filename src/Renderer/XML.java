@@ -1,6 +1,6 @@
 
 package Renderer;
-import Lighting.AmbientLight;
+import lighting.AmbientLight;
 import org.w3c.dom.*;
 import org.xml.sax.SAXException;
 import javax.xml.parsers.*;

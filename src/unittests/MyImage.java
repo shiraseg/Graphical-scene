@@ -1,7 +1,7 @@
 package unittests;
 
-import Lighting.PointLight;
-import Lighting.SpotLight;
+import lighting.PointLight;
+import lighting.SpotLight;
 import Renderer.Camera;
 import Renderer.ImageWriter;
 import Renderer.RayTracerBasic;
@@ -16,7 +16,7 @@ import scene.Scene;
  * including sea, birds and the sun
  * using plane, sphere and triangles
  */
-public class SunRiseTest {
+public class MyImage {
     @Test
     public void test()
     {
@@ -171,7 +171,7 @@ public class SunRiseTest {
 
 
         //creating the picture
-        camera.setImageWriter(new ImageWriter("sunRise", 2000,2000)) //
+        camera.setImageWriter(new ImageWriter("myImage", 2000,2000)) //
                 .renderImage() //
                 .writeToImage();
 
