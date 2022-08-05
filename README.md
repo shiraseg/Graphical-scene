@@ -1,5 +1,3 @@
 # Graphical-scene
-As part of the course "Introduction to Software Engineering", Designing and modelling a virtual 3D graphical scene.
-a complete system that includes all the elements and physics involved: color, rays, geometries, light source, shadows, reflections, transparency, etc.
-applying development principles like TDD, Refactoring, agile methodologies, and more.
-
+As part of the course "Introduction to Software Engineering";
+Rendering a 3D scene consisting of lighting, shadowing, reflection, refraction, anti-aliasing  etc., using image enhancers such as super-sampling and soft shadowing. Programming principles used: Object-oriented programming, Agile, Design pattern, TDD and using XML files.
